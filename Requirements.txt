@@ -1,0 +1,7 @@
+streamlit
+pypdf
+sentence-transformers
+chromadb
+ollama
+python-dotenv
+anthropic
